@@ -13,4 +13,4 @@ Navigate to `http://localhost:4200/`. The application will automatically reload 
 
 ![alt text]("https://github.com/sandropucp/angular-investment-calculator/blob/master/public/Calculator01.png?raw=true")
 
-![alt text]("../master/public/Calculator01.png")
+![alt text]("public/Calculator01.png")
